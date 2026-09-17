@@ -54,26 +54,7 @@ Leetcode-Solutions/
 └── DYNAMIC_PROGRAMMING/
 ```
 
-## 📝 Solutions
 
-Each solution is written in Java and includes a runnable `main()` method for testing in VS Code.
-
-Example:
-
-**LeetCode 1 – Two Sum**
-
-* Topic: Arrays
-* Difficulty: Easy
-* Language: Java
-* Time Complexity: O(n²)
-
-**LeetCode 121 – Best Time to Buy and Sell Stock**
-
-* Topic: Arrays
-* Difficulty: Easy
-* Language: Java
-* Time Complexity: O(n)
-* Space Complexity: O(1)
 
 ## 📈 Progress
 
@@ -88,4 +69,4 @@ https://leetcode.com/u/ShrenithiBalusamy/
 
 ---
 
-### ⭐ If this repository helps you, feel free to explore it!
+
